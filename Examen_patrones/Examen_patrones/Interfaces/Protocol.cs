@@ -3,5 +3,6 @@ namespace Examen_patrones.Interfaces
 {
     public interface Protocol
     {
+        String InformacionTransaccion();
     }
 }

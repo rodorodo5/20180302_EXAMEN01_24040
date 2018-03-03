@@ -5,4 +5,3 @@ namespace Examen_patrones.Interfaces
     {
     }
 }
-k

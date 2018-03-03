@@ -1,0 +1,11 @@
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/obj/Debug/netcoreapp2.0/Examen_patrones.csprojResolveAssemblyReference.cache
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/obj/Debug/netcoreapp2.0/Examen_patrones.csproj.CoreCompileInputs.cache
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/obj/Debug/netcoreapp2.0/Examen_patrones.AssemblyInfoInputs.cache
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/obj/Debug/netcoreapp2.0/Examen_patrones.AssemblyInfo.cs
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/bin/Debug/netcoreapp2.0/Examen_patrones.deps.json
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/bin/Debug/netcoreapp2.0/Examen_patrones.runtimeconfig.json
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/bin/Debug/netcoreapp2.0/Examen_patrones.runtimeconfig.dev.json
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/bin/Debug/netcoreapp2.0/Examen_patrones.dll
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/bin/Debug/netcoreapp2.0/Examen_patrones.pdb
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/obj/Debug/netcoreapp2.0/Examen_patrones.dll
+/Users/rodo/Projects/Examen_patrones/Examen_patrones/obj/Debug/netcoreapp2.0/Examen_patrones.pdb
